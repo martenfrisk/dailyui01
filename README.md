@@ -1,3 +1,15 @@
+## Daily UI Challenge #001
+
+Demo: https://martenfrisk.github.io/dailyui01/
+
+The task was to design a newsletter subscription page.
+
+Colors inspired by Minnesota Vikings.
+
+SVG graphic from Vecteezy (https://www.vecteezy.com/vector-art/242017-people-eating-at-restaurant-vector).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
