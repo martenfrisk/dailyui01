@@ -1,0 +1,42 @@
+@tailwind base;
+
+@tailwind components;
+
+
+
+@tailwind utilities;
+
+@responsive {   
+    .h-screen-1\/2 {
+        height: 50vh;
+    }
+
+    .h-screen-2\/3 {
+        height: 66vh;
+    }
+
+    .h-screen-3\/4 {
+        height: 75vh;
+    }
+
+    .m-height-1\/2 {
+        height: 50vh;    
+    }
+
+    .m-height-2\/3 {
+        height: 66vh;    
+    }
+};
+
+.mt-9 {
+  margin-top: 2.25rem;
+}
+
+.label-floating input:not(:placeholder-shown) {
+  padding-top: 1.5rem;
+}
+.label-floating input:not(:placeholder-shown) ~ label {
+  font-size: 0.75rem;
+  transition: all 0.2s ease-in-out;
+  color: rgba(40,40,40,1);
+}
